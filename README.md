@@ -8,6 +8,15 @@ I am a dedicated technology professional who transitioned from a retail backgrou
 
 ## 🚀 Featured Projects
 
+🚀 Featured Projects
+Project 	Category	Key Features	Tech Stack
+SAPS Crime Score	Data Engineering	10+ years of crime data + NLP sentiment analysis; interactive safety heatmaps.	Azure, Python, spaCy, Streamlit
+Newcastle Crime Watch	Public Safety	Geolocation reporting, real-time crime feeds, and emergency alerts for KZN.	Next.js 14, TypeScript, Prisma, AWS S3
+WanderLearn LMS	Full-Stack	Course creation, progress tracking, and Role-Based Access Control (RBAC).	Next.js 14, PostgreSQL, Better Auth
+Personal Portfolio	Web Dev	High-performance, responsive site showcasing career transition and growth.	React, TypeScript, CSS
+Excel Automation	Automation	Business reporting tool built for Forvis Mazars to streamline operations.	Python, Pandas
+Python Chess	Software Dev	Object-oriented logic-based game to master core programming fundamentals.	Python (OOP)
+
 ### 🛡️ Public Safety & Data Engineering
 
 **SAPS Crime Score (SentryPipe)**  
