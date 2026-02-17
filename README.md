@@ -8,22 +8,17 @@ I am a dedicated technology professional who transitioned from a retail backgrou
 
 ## 🚀 Featured Projects
 
-🚀 Featured Projects
-Project 	Category	Key Features	Tech Stack
-SAPS Crime Score	Data Engineering	10+ years of crime data + NLP sentiment analysis; interactive safety heatmaps.	Azure, Python, spaCy, Streamlit
-Newcastle Crime Watch	Public Safety	Geolocation reporting, real-time crime feeds, and emergency alerts for KZN.	Next.js 14, TypeScript, Prisma, AWS S3
-WanderLearn LMS	Full-Stack	Course creation, progress tracking, and Role-Based Access Control (RBAC).	Next.js 14, PostgreSQL, Better Auth
-Personal Portfolio	Web Dev	High-performance, responsive site showcasing career transition and growth.	React, TypeScript, CSS
-Excel Automation	Automation	Business reporting tool built for Forvis Mazars to streamline operations.	Python, Pandas
-Python Chess	Software Dev	Object-oriented logic-based game to master core programming fundamentals.	Python (OOP)
-
 ### 🛡️ Public Safety & Data Engineering
 
-**SAPS Crime Score (SentryPipe)**  
+| | |
+|---|---|
+| **SAPS Crime Score (SentryPipe)**  
 An Azure/Python pipeline that processes 10+ years of SAPS data. It combines hard crime statistics with NLP-driven media sentiment analysis to create a "Safety Score" (70% crime, 30% fear index) with interactive heatmaps.  
 **Tech:** Azure Functions, Data Lake, Python (Pandas), spaCy, VADER, Streamlit.
 
-**Newcastle Crime Watch**  
+| | |
+|---|---|
+| **Newcastle Crime Watch**  
 A dedicated safety platform for the Newcastle Township (KZN). Features geolocated reporting, real-time crime feeds, and emergency alerts to bridge the gap between citizens and SAPS.  
 **Tech:** Next.js 14, TypeScript, TailwindCSS, Prisma, PostgreSQL, AWS S3.
 
@@ -32,7 +27,9 @@ A dedicated safety platform for the Newcastle Township (KZN). Features geolocate
 
 ### 📚 Full-Stack Development
 
-**WanderLearn LMS**  
+| | |
+|---|---|
+| **WanderLearn LMS**  
 A comprehensive Learning Management System with Role-Based Access Control (RBAC), course creation tools, progress tracking, and admin analytics.  
 **Tech:** Next.js 14, TypeScript, Prisma, PostgreSQL, Better Auth.
 
@@ -45,7 +42,9 @@ A high-performance, responsive portfolio showcasing my journey and technical gro
 
 <img width="500" height="348" alt="Screenshot 2026-02-17 150529" src="https://github.com/user-attachments/assets/daf08aa1-1216-41e8-8dfc-b138cfefdb55" />
 
-### 🐍 Python & Automation
+| | |
+|---|---|
+| **🐍 Python & Automation
 
 - **Excel Report Automation:** Developed during my time at Forvis Mazars to automate business reporting, saving significant operational hours.
 - **Python Chess Game:** An object-oriented playable chess application built to master logic and Python fundamentals.
