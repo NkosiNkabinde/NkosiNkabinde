@@ -17,7 +17,7 @@ An Azure/Python pipeline that processes 10+ years of SAPS data. It combines hard
 **Newcastle Crime Watch**  
 A dedicated safety platform for the Newcastle Township (KZN). Features geolocated reporting, real-time crime feeds, and emergency alerts to bridge the gap between citizens and SAPS.  
 **Tech:** Next.js 14, TypeScript, TailwindCSS, Prisma, PostgreSQL, AWS S3.
-<img width="1897" height="866" alt="Screenshot 2026-02-17 150347" src="https://github.com/user-attachments/assets/2fcfcc5d-15a7-4e40-abee-89fa6df223ea" />
+<img width="500" height="866" alt="Screenshot 2026-02-17 150347" src="https://github.com/user-attachments/assets/2fcfcc5d-15a7-4e40-abee-89fa6df223ea" />
 
 ### 📚 Full-Stack Development
 
