@@ -54,23 +54,10 @@ A high-performance, responsive portfolio showcasing my journey and technical gro
 
 ## 📫 Let's Connect!
 
-- **Portfolio:** [nkosingiphile.netlify.app](https://nkosingiphile.netlify.app)
-- **LinkedIn:** [Nkosingiphile Nkabinde](https://www.linkedin.com/in/nkosingiphile-nkabinde)
-- **Email:** nkosingiphileparis24@gmail.com
+- **Portfolio:** https://nkosi-nkabinde.vercel.app/
+- 
+- **LinkedIn:** https://www.linkedin.com/in/nkosingiphile-nkabinde-b3208620b/
+- 
+- **Email:** nkosingiphilepano24@gmail.com
 
 ---
-
-## Project Setup (for this repo)
-
-1. Install Node.js from [nodejs.org](https://nodejs.org/).  
-2. Enable pnpm: `corepack enable pnpm`  
-3. Install dependencies: `pnpm install`  
-4. Start the development server: `pnpm dev`  
-
-### Build
-
-`pnpm build`
-
-### Preview
-
-`pnpm preview`
