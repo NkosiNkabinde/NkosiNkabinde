@@ -17,6 +17,8 @@ An Azure/Python pipeline that processes 10+ years of SAPS data. It combines hard
 **Newcastle Crime Watch**  
 A dedicated safety platform for the Newcastle Township (KZN). Features geolocated reporting, real-time crime feeds, and emergency alerts to bridge the gap between citizens and SAPS.  
 **Tech:** Next.js 14, TypeScript, TailwindCSS, Prisma, PostgreSQL, AWS S3.
+
+
 <img width="500" height="500" alt="Screenshot 2026-02-17 150347" src="https://github.com/user-attachments/assets/2fcfcc5d-15a7-4e40-abee-89fa6df223ea" />
 
 ### 📚 Full-Stack Development
@@ -24,12 +26,15 @@ A dedicated safety platform for the Newcastle Township (KZN). Features geolocate
 **WanderLearn LMS**  
 A comprehensive Learning Management System with Role-Based Access Control (RBAC), course creation tools, progress tracking, and admin analytics.  
 **Tech:** Next.js 14, TypeScript, Prisma, PostgreSQL, Better Auth.
+
 <img width="400" height="400" alt="Screenshot 2026-02-17 150412" src="https://github.com/user-attachments/assets/58153674-fd63-4bb3-a429-9876182c55c7" />
 
 **Personal Portfolio**  
 A high-performance, responsive portfolio showcasing my journey and technical growth.  
 **Tech:** React, TypeScript, CSS.
-<img width="563" height="348" alt="Screenshot 2026-02-17 150529" src="https://github.com/user-attachments/assets/daf08aa1-1216-41e8-8dfc-b138cfefdb55" />
+
+
+<img width="500" height="348" alt="Screenshot 2026-02-17 150529" src="https://github.com/user-attachments/assets/daf08aa1-1216-41e8-8dfc-b138cfefdb55" />
 
 ### 🐍 Python & Automation
 
